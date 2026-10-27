@@ -1,0 +1,10 @@
+streamlit>=1.57,<2
+pydantic>=2.7,<3
+pandas>=2.2,<4
+python-dotenv>=1.0,<2
+duckduckgo-search>=7,<9
+tavily-python>=0.5,<1
+openai>=1.50,<3
+anthropic>=0.40,<1
+google-genai>=1.0,<2
+pytest>=8,<9
